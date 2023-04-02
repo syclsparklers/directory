@@ -3,7 +3,7 @@ this is a directory of the
 best location to obtain
 the source code for each published Sparkler
 
-# Accelerated Encrypted Computing on Intel GPUs
+# XeHE: An Intel GPU Accelerated Fully Homomorphic Encryption Library
 **by Alexander Lyashevsky, Alexey Titov, Yiqin Qiu, and Yujia Zhai**  
 edited by James Reinders with assistance from Henry Gabb and John Pennycook  
 ISBN-13 (pbk): 979-8-88638-000-2  
